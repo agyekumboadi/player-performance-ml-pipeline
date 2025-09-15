@@ -7,8 +7,8 @@ The project applies *machine learning models* to forecast player performance acr
 
 ## Project Overview
 
-The project investigates how *data-driven methods* can enhance the assessment of sports performance.  
-By combining *statistical analysis*, *feature engineering*, and *predictive modelling*, it identifies the *Key Performance Indicators (KPIs)* most strongly associated with high-performing players.
+The project investigates how data-driven methods can enhance the assessment of players performance in sports.
+By combining statistical analysis, feature engineering, and predictive modelling, it identifies the Key Performance Indicators (KPIs) most strongly associated with high-performing players.
 
 ### Key Objectives
 * Analyse large-scale multi-sport datasets (Football, Basketball, and Cross-Sport).
