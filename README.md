@@ -1,6 +1,6 @@
 # Player Performance Analytics – Reproducible ML Pipeline (Multi-Sport)
 
-This repository documents my MSc research project: **Player Performance Analysis in Sports Using Data Analytics**.  
+This repository documents my research project: **Player Performance Analysis in Sports Using Data Analytics**.  
 It delivers an **end-to-end, reproducible machine learning pipeline** for forecasting and interpreting player performance using **football**, then validating generalisability using **basketball** and **cross-sport** datasets.
 
 **Core focus:** building models that are not only accurate, but also **auditable and explainable** (PCA + SHAP), with outputs presented in decision-ready form.
