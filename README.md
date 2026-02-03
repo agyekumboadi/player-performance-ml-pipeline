@@ -74,6 +74,26 @@ This repo shares:
 
 ---
 
+## Evidence gallery (selected outputs)
+
+### Model performance comparison
+![Final model performance comparison](outputs/analysis/final_model_performance_comparison.png)
+
+![Model performance comparison](outputs/analysis/model_performance_comparison.png)
+
+### Confusion matrix (basketball test)
+![Basketball confusion matrix](outputs/analysis/basketball_confusion_matrix_roc9719.png)
+
+### Explainability (SHAP)
+![SHAP summary – cross-sport](outputs/shap_plots/shap_summary_crosssport.png)
+
+![SHAP summary – class 1](outputs/shap_plots/shap_summary_class1.png)
+
+### PCA diagnostics
+![PCA explained variance](outputs/plots/pca_explained_variance_cleaned.png)
+
+---
+
 ## Key findings (evidence-led)
 
 - Offensive performance indicators (e.g., goal contribution, goals, assists, shot-based measures) showed strong association with high performance outcomes.  
