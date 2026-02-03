@@ -100,10 +100,13 @@ This repo shares:
 ### Workflow Diagram
 ![workflow diagram of dataset inputs across training and testing stages](outputs/eda_visuals/datasets_pipeline_diagram.png)
 
-### Selected Exploratory Data Analysis Visuals ([view all](outputs/eda_visuals))
+### Selected Exploratory Data Analysis Visuals [view all](outputs/eda_visuals)
 ![top 15 correlated features](outputs/eda_visuals/top15_correlated_features.png)
+
 ![injury vs. minutes played](outputs/eda_visuals/logistic_injury_vs_minutes_played.png)
+
 ![goal contribution distribution (goals + assist)](outputs/eda_visuals/goal_contribution_distribution.png)
+
 ![filtered correlation matrix](outputs/eda_visuals/filtered_correlation_matrix.png)
 
 ### Confusion matrix (basketball test)
