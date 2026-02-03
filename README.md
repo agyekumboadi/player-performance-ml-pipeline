@@ -79,8 +79,6 @@ This repo shares:
 ### Model performance comparison
 ![Final model performance comparison](outputs/analysis/final_model_performance_comparison.png)
 
-![Model performance comparison](outputs/analysis/model_performance_comparison.png)
-
 ### Model test evaluation (summary)
 
 | Dataset | Accuracy | F1-score | ROC AUC | Report |
