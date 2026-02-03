@@ -81,9 +81,12 @@ This repo shares:
 
 ![Model performance comparison](outputs/analysis/model_performance_comparison.png)
 
-### Model test evaluation
-![Basketball evaluation](basketball_model_evaluation.txt) 
-![Crosssport evaluation](crosssport_model_evaluation.txt)
+### Model test evaluation (summary)
+
+| Dataset | Accuracy | F1-score | ROC AUC | Report |
+|--------|---------:|---------:|--------:|--------|
+| Basketball | (value) | (value) | (value) | [View](outputs/analysis/basketball_model_evaluation.txt) |
+| Cross-sport | (value) | (value) | (value) | [View](outputs/analysis/crosssport_model_evaluation.txt) |
 
 ### Confusion matrix (basketball test)
 ![Basketball confusion matrix](outputs/analysis/basketball_confusion_matrix_roc9719.png)
