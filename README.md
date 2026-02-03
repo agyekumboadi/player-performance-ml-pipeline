@@ -101,6 +101,7 @@ This repo shares:
 
 ### Workflow Diagram of dataset inputs
 ![workflow diagram of dataset inputs across training and testing stages](outputs/eda_visuals/datasets_pipeline_diagram.png)
+---
 
 ### Selected Exploratory Data Analysis Visuals ([view all](outputs/eda_visuals))
 
