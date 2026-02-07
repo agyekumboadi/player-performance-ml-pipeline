@@ -35,6 +35,10 @@ pip install -r requirements.txt
 jupyter notebook src/Sports_Performance_Analysis_Model.ipynb
 
 ```
+Open files:
+- Notebook: [Sports_Performance_Analysis_Model.ipynb](src/Sports_Performance_Analysis_Model.ipynb)
+- Script: [pipeline.py](src/pipeline.py)
+
 ---
 
 ## Technical objectives
